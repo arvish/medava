@@ -1,1 +1,11 @@
-Your questions here.
+
+Sooo, I don't have a lot of questions ><
+I studied JAVA competitively for 4 years in high school. (gave two national exams T T)
+still I'm rusty so I got a couple 
+
+Still:
+
+ - please explain super() to me
+ - i would love to see a wireframe of the entire code so its, AND then explain interfaces so its crystal clear
+
+ really appreciate all your efforts, thank you!
